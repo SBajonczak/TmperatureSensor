@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "AppMicroservices"
+		},
+		{
+			"path": "AppDatenApi"
+		},
+		{
+			"path": "Azure-Infrastructure"
+		},
+		{
+			"path": "Digitale-Kundenakte.wiki"
+		},
+		{
+			"path": "AppUI"
+		},
+		{
+			"path": "AppConsoleTools"
+		},
+		{
+			"path": "AppAdd-In"
+		}
+	],
+	"settings": {
+		"dotnet-test-explorer.testProjectPath": "AppUI/**/*Test*.csproj"
+	}
+}
